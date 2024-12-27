@@ -1,0 +1,60 @@
+*{
+    padding: 5px;
+}
+header{
+    background-color: aqua;
+    height: 959px;
+    border-radius: 5px;
+    padding-bottom: 90px;
+}
+#hero{
+    display: flex;
+}
+.Entête{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 20px;
+    margin-top: 10px;
+}
+span{
+    color: blue;
+    font-weight: bolder;
+    font-size: 50px;
+}
+#lien a{
+    text-decoration: none;
+    font-size: 40px;
+    margin: 5px;
+}
+#Lampe{
+    align-items: center;
+    text-align: center;
+}
+#Lampe h1{
+    color: white;
+    width: 100%;
+    font-size: 50px;
+}
+.image1{
+    width: 50%;
+    position: absolute;
+    top: 80px;
+    right: 0;
+}
+#Fonctionalité{
+    background-color: yellow;
+}
+#Solar{
+    
+    text-align: center;
+    border-radius: 5px;
+    padding-left: ;
+}
+#Solar h1{
+    color: white;
+    font-size: 50px;
+}
+#Cord{
+    display: flex;
+}
